@@ -8,3 +8,6 @@ dist/
 .DS_Store
 *.pem
 .git/
+# Ignore portable Node and archives
+node-portable/
+*.zip
